@@ -2,5 +2,7 @@ molecule==3.4.0
 molecule_podman==0.3.0
 podman
 selinux
+ansible<3
 ansible-lint
 yamllint
+molecule-docker
